@@ -4,38 +4,38 @@ A modern, fast task management application built with React and Node.js.
 
 ## Features
 
-- ✅ User authentication (register/login)
-- ✅ Create, read, update, delete tasks
-- ✅ Task priorities (low, medium, high)
-- ✅ Task status (pending, completed)
-- ✅ Modern, responsive UI
-- ✅ Single-port deployment (backend + frontend)
-- ✅ JWT authentication
-- ✅ MongoDB database
+- User authentication (register/login)
+- Create, read, update, delete tasks
+- Task priorities (low, medium, high)
+- Task status (pending, completed)
+- Modern, responsive UI
+- Single-port deployment (backend + frontend)
+- JWT authentication
+- MongoDB database
 
 ## Quick Start
 
-1. **Install dependencies:**
-   ```bash
+1. "Install dependencies:"
+   bash
    npm install
-   ```
+   
 
-2. **Start the application:**
-   ```bash
+2. "Start the application:"
+   bash
    npm run dev
-   ```
+   
 
-3. **Open your browser:**
-   ```
+3. "Open your browser:"
+   
    http://localhost:3000
-   ```
+   
 
 ## Usage
 
-1. **Register** a new account or **login** with existing credentials
-2. **Create tasks** with title, description, and priority
-3. **Manage tasks** - mark as complete, reopen, or delete
-4. **View all tasks** in your dashboard
+1. "Register" a new account or "login" with existing credentials
+2. "Create tasks" with title, description, and priority
+3. "Manage tasks" - mark as complete, reopen, or delete
+4. "View all tasks" in your dashboard
 
 ## API Endpoints
 
@@ -48,11 +48,11 @@ A modern, fast task management application built with React and Node.js.
 
 ## Tech Stack
 
-- **Frontend:** React, React Router, CSS
-- **Backend:** Node.js, Express
-- **Database:** MongoDB with Mongoose
-- **Authentication:** JWT
-- **Styling:** Custom CSS with modern design
+- Frontend: React, React Router, CSS
+- Backend: Node.js, Express
+- Database: MongoDB with Mongoose
+- Authentication: JWT
+- Styling: Custom CSS with modern design
 
 ## Project Structure
 
